@@ -1,0 +1,9 @@
+#mySelector {
+    position: absolute;
+    height: 25vh;
+    width: 25vh;
+    top: 0px;
+    left: 0px;
+    background-color: aliceblue;
+    border-radius: 2vh;
+}
